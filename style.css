@@ -2,7 +2,21 @@ body{
     background-color: #414141;
     color: white;
 }
-h1{
-    color: cyan;
+.box{
+    background-color: cyan;
+    color: black;
+}
+.heading{
+    color: red ;
+}
+button{
+    background-color: green;
     text-align: center;
+     width: 250px;
+      height: 50px;
+      border-style: double;
+}
+ button:hover{
+color: black;
+box-sizing: inherit;
 }
