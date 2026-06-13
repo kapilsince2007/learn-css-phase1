@@ -20,3 +20,11 @@ button{
 color: black;
 box-sizing: inherit;
 }
+#paragraph2{
+    text-align: center;
+    color: chocolate;
+}
+#paragraph1{
+    text-align: right;
+    color: aqua;
+}
