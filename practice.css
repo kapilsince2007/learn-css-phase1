@@ -1,0 +1,70 @@
+body{
+    background-color: #414141;
+    color: white;
+}
+#one{
+height: 100px;
+width: 100px;
+background-color: cyan;
+color: black;
+border: green;
+border-style: double;
+border-radius: 50%;
+paddingg 20px;
+text-align: center;
+
+}
+
+#two{
+    background-color: black;
+    height: 50px;
+    width: auto;
+   border: 2px solid white;
+    
+
+   
+}
+#amazon{
+    background-color: black;
+    color: orange;
+    text-decoration: none;
+    font-size: 20px;
+}
+.header{
+    color: white;
+    text-decoration: none;
+    padding-left: 200px;
+}
+#fsearch{
+    padding-left: 200px;
+   box-sizing: content-box;
+}
+#search{
+    background-color: orange;
+    color: white;
+   
+    
+    
+}
+#navbar{
+    height: 40px;
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+  
+}
+.navbar{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+#amz{
+    color: orange;
+    text-decoration: none;
+    margin-right: 200px;
+    font-size: 20px;
+}
+button{
+background-color: orange;
+color: white;
+}
