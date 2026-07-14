@@ -2,12 +2,25 @@ body {
   background-color: #414141;
   color: white;
 }
-.box {
-  background-color: cyan;
-  height: 50px;
-  width: 50px;
-  border: 2px black solid;
+p {
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-decoration: cyan dotted underline;
+}
+h1 {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  border: 1px solid black;
   text-align: center;
-  margin-bottom: 2px;
-  margin-left: 100px;
+}
+#border {
+  background-color: white;
+  color: red;
+  border-style: outset;
+  border-color: gold;
+  border-width: 5px;
+  padding: 5px;
 }

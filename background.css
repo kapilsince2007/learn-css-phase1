@@ -1,0 +1,19 @@
+body {
+  background-image: url(nepal.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  background: linear-gradient(skyblue, white);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+p {
+  background: linear-gradient(skyblue, lime);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
